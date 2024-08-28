@@ -1,0 +1,42 @@
+# Archivos de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Entornos virtuales
+venv/
+.env/
+env/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos de paquetes
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Archivos de caché
+*.cache
+.cache/
+
+# Archivos de bases de datos
+*.sqlite3
+*.db
+
+# Archivos de configuración de sistema
+*.ini
+*.cfg
+*.conf
