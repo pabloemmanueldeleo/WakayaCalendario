@@ -1,0 +1,11 @@
+{
+    "font_size": 12,
+    "font_color": "#333333",
+    "background_color": "#f0f0f0",
+    "button_color": "#4CAF50",
+    "button_text_color": "#ffffff",
+    "field_size": [150, 30],
+    "title_font": "Arial",
+    "title_font_size": 14,
+    "title_color": "#000000"
+}
